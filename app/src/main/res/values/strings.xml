@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlacarApp</string>
+    <string name="label_titulo">Times</string>
+    <string name="label_rodape">Desenvolvido Por Thomas Galvão</string>
+</resources>
