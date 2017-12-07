@@ -62,4 +62,13 @@
             android:onClick="golVisitante" />
     </LinearLayout>
 
+    <Button
+        android:text="Zerar Placar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/zerarPlacar"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="zerarPlacar" />
+
 </RelativeLayout>

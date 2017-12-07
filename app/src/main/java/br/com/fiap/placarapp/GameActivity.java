@@ -61,4 +61,11 @@ public class GameActivity extends AppCompatActivity {
         tvPlacarVisitante.setText(String.valueOf(golVisitante));
     }
 
+    public void zerarPlacar(View v) {
+        golCasa = 0;
+        golVisitante = 0;
+        tvPlacarCasa.setText(String.valueOf(golCasa));
+        tvPlacarVisitante.setText(String.valueOf(golVisitante));
+    }
+
 }
