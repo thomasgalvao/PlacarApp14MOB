@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">PlacarApp</string>
+    <string name="app_name" translatable="false">Placar</string>
     <string name="label_titulo">Times</string>
-    <string name="label_rodape">Desenvolvido Por Thomas Galvão</string>
+    <string name="label_rodape">Developed by Thomas Galvão</string>
     <string name="placar_inicial">0</string>
-    <string name="placar_botao1">Gol</string>
-    <string name="placar_botao2">Gol</string>
+    <string name="placar_botao1">Goal</string>
+    <string name="placar_botao2">Goal</string>
 </resources>

@@ -60,15 +60,17 @@
         <Button
             style="@style/placarbotao2"
             android:onClick="golVisitante" />
+
     </LinearLayout>
 
     <Button
         android:text="Zerar Placar"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/zerarPlacar"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:onClick="zerarPlacar" />
+        android:onClick="zerarPlacar"
+        android:layout_marginTop="99dp"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_alignParentStart="true" />
 
 </RelativeLayout>

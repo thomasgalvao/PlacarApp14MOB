@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_rodape">Desenvolvido Por Thomas Galvão</string>
+    <string name="label_titulo">Times</string>
+    <string name="placar_botao1">Gol</string>
+    <string name="placar_botao2">Gol</string>
+    <string name="placar_inicial">0</string>
+</resources>
